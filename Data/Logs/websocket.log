@@ -1,0 +1,210 @@
+﻿
+2023-03-17T09:02:32.791Z   *** Server started
+2023-03-17T09:02:34.379Z   *** Server closed
+2023-03-17T13:49:30.544Z   *** Server started
+2023-03-17T13:49:31.426Z   *** Server closed
+2023-03-24T10:22:21.973Z   *** Server started
+2023-03-24T10:22:29.764Z   *** Server closed
+2023-03-24T14:14:50.472Z   *** Server started
+2023-03-24T14:14:51.295Z   *** Server closed
+2023-05-31T08:14:20.808Z   *** Server started
+2023-05-31T08:14:22.451Z   *** New connection request from: localhost::49277
+2023-05-31T08:14:22.459Z   New client connected: Client1 - localhost::49277
+2023-05-31T08:14:31.180Z   Connection closed: Client1 - localhost::49277 - code: 1000 WebSocket has been closed normally.
+2023-05-31T08:14:31.188Z   *** Server closed
+2023-05-31T09:28:20.961Z   *** Server started
+2023-05-31T09:29:13.685Z   *** Server started
+2023-05-31T09:30:50.447Z   *** Server started
+2023-05-31T09:30:50.572Z   *** New connection request from: localhost::52938
+2023-05-31T09:30:50.580Z   New client connected: Client1 - localhost::52938
+2023-05-31T09:31:22.189Z   *** Server started
+2023-05-31T09:31:22.357Z   *** New connection request from: localhost::52941
+2023-05-31T09:31:22.365Z   New client connected: Client1 - localhost::52941
+2023-05-31T10:00:29.520Z   *** Server started
+2023-05-31T10:00:29.676Z   *** New connection request from: localhost::53928
+2023-05-31T10:00:29.683Z   New client connected: Client1 - localhost::53928
+2023-05-31T10:05:51.732Z   *** Server started
+2023-05-31T10:05:51.908Z   *** New connection request from: localhost::54038
+2023-05-31T10:05:51.916Z   New client connected: Client1 - localhost::54038
+2023-05-31T12:23:06.343Z   *** Server started
+2023-05-31T12:23:06.517Z   *** New connection request from: localhost::56693
+2023-05-31T12:23:06.528Z   New client connected: Client1 - localhost::56693
+2023-05-31T12:24:29.123Z   Connection closed: Client1 - localhost::56693 - code: 1000 WebSocket has been closed normally.
+2023-05-31T12:24:54.469Z   *** Server started
+2023-05-31T12:24:54.647Z   *** New connection request from: localhost::56709
+2023-05-31T12:24:54.661Z   New client connected: Client1 - localhost::56709
+2023-05-31T12:26:12.408Z   *** Server started
+2023-05-31T12:26:12.533Z   *** New connection request from: localhost::56727
+2023-05-31T12:26:12.543Z   New client connected: Client1 - localhost::56727
+2023-05-31T12:26:17.738Z   Connection closed: Client1 - localhost::56727 - code: 1000 WebSocket has been closed normally.
+2023-05-31T12:26:17.748Z   *** Server closed
+2023-05-31T12:26:21.443Z   *** Server started
+2023-05-31T12:26:21.651Z   *** New connection request from: localhost::56728
+2023-05-31T12:26:21.658Z   New client connected: Client1 - localhost::56728
+2023-05-31T12:26:29.116Z   Connection closed: Client1 - localhost::56728 - code: 1000 WebSocket has been closed normally.
+2023-05-31T12:26:29.125Z   *** Server closed
+2023-05-31T14:34:31.660Z   *** Server started
+2023-05-31T14:34:31.836Z   *** New connection request from: localhost::61804
+2023-05-31T14:34:31.843Z   New client connected: Client1 - localhost::61804
+2023-05-31T14:37:13.794Z   Connection closed: Client1 - localhost::61804 - code: 1000 WebSocket has been closed normally.
+2023-05-31T14:37:13.802Z   *** Server closed
+2023-05-31T14:42:10.425Z   *** Server started
+2023-05-31T14:42:10.601Z   *** New connection request from: localhost::62076
+2023-05-31T14:42:10.609Z   New client connected: Client1 - localhost::62076
+2023-05-31T14:42:19.566Z   Connection closed: Client1 - localhost::62076 - code: 1000 WebSocket has been closed normally.
+2023-05-31T14:42:19.574Z   *** Server closed
+2023-05-31T14:43:25.044Z   *** Server started
+2023-05-31T14:43:25.198Z   *** New connection request from: localhost::62101
+2023-05-31T14:43:25.206Z   New client connected: Client1 - localhost::62101
+2023-05-31T14:44:05.238Z   *** Error: Client1 - localhost::62101 - {"errors":[{"errCode":1006,"message":"Abnormal closure (close frame not sent nor received).","componentSignature":"HTTP"}]}
+2023-05-31T14:44:05.256Z   Connection closed: Client1 - localhost::62101 - code: 1006 Abnormal closure (close frame not sent nor received).
+2023-05-31T14:44:30.944Z   *** Server closed
+2023-05-31T14:44:58.568Z   *** Server started
+2023-05-31T14:44:58.783Z   *** New connection request from: localhost::62125
+2023-05-31T14:44:58.794Z   New client connected: Client1 - localhost::62125
+2023-05-31T14:51:57.605Z   Connection closed: Client1 - localhost::62125 - code: 1000 WebSocket has been closed normally.
+2023-05-31T14:51:57.616Z   *** Server closed
+2023-05-31T14:54:06.935Z   *** Server started
+2023-05-31T14:54:07.106Z   *** New connection request from: localhost::63230
+2023-05-31T14:54:07.113Z   New client connected: Client1 - localhost::63230
+2023-05-31T14:54:11.672Z   Connection closed: Client1 - localhost::63230 - code: 1000 WebSocket has been closed normally.
+2023-05-31T14:54:11.679Z   *** Server closed
+2023-05-31T15:02:36.366Z   *** Server started
+2023-05-31T15:02:36.534Z   *** New connection request from: localhost::63386
+2023-05-31T15:02:36.542Z   New client connected: Client1 - localhost::63386
+2023-05-31T15:03:19.688Z   Connection closed: Client1 - localhost::63386 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:03:19.696Z   *** Server closed
+2023-05-31T15:04:58.618Z   *** Server started
+2023-05-31T15:04:58.785Z   *** New connection request from: localhost::63431
+2023-05-31T15:04:58.793Z   New client connected: Client1 - localhost::63431
+2023-05-31T15:05:01.797Z   Connection closed: Client1 - localhost::63431 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:05:01.805Z   *** Server closed
+2023-05-31T15:05:07.438Z   *** Server started
+2023-05-31T15:05:07.639Z   *** New connection request from: localhost::63433
+2023-05-31T15:05:07.647Z   New client connected: Client1 - localhost::63433
+2023-05-31T15:05:22.074Z   Connection closed: Client1 - localhost::63433 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:05:22.083Z   *** Server closed
+2023-05-31T15:22:07.248Z   *** Server started
+2023-05-31T15:22:07.438Z   *** New connection request from: localhost::63937
+2023-05-31T15:22:07.446Z   New client connected: Client1 - localhost::63937
+2023-05-31T15:22:15.353Z   Connection closed: Client1 - localhost::63937 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:22:15.361Z   *** Server closed
+2023-05-31T15:22:42.132Z   *** Server started
+2023-05-31T15:22:42.313Z   *** New connection request from: localhost::63941
+2023-05-31T15:22:42.321Z   New client connected: Client1 - localhost::63941
+2023-05-31T15:22:50.078Z   Connection closed: Client1 - localhost::63941 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:22:50.086Z   *** Server closed
+2023-05-31T15:23:35.431Z   *** Server started
+2023-05-31T15:23:35.587Z   *** New connection request from: localhost::63947
+2023-05-31T15:23:35.596Z   New client connected: Client1 - localhost::63947
+2023-05-31T15:23:42.673Z   Connection closed: Client1 - localhost::63947 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:23:42.680Z   *** Server closed
+2023-05-31T15:24:20.612Z   *** Server started
+2023-05-31T15:24:20.797Z   *** New connection request from: localhost::63963
+2023-05-31T15:24:20.805Z   New client connected: Client1 - localhost::63963
+2023-05-31T15:24:38.514Z   Connection closed: Client1 - localhost::63963 - code: 1000 WebSocket has been closed normally.
+2023-05-31T15:24:38.522Z   *** Server closed
+2023-06-01T08:09:18.007Z   *** Server started
+2023-06-01T08:09:18.164Z   *** New connection request from: localhost::56045
+2023-06-01T08:09:18.172Z   New client connected: Client1 - localhost::56045
+2023-06-01T08:09:19.417Z   Connection closed: Client1 - localhost::56045 - code: 1000 WebSocket has been closed normally.
+2023-06-01T08:09:19.425Z   *** Server closed
+2023-06-01T08:21:43.048Z   *** Server started
+2023-06-01T08:21:43.161Z   *** New connection request from: localhost::56325
+2023-06-01T08:21:43.169Z   New client connected: Client1 - localhost::56325
+2023-06-01T08:21:47.197Z   Connection closed: Client1 - localhost::56325 - code: 1000 WebSocket has been closed normally.
+2023-06-01T08:21:47.208Z   *** Server closed
+2023-06-01T08:23:39.825Z   *** Server started
+2023-06-01T08:23:39.983Z   *** New connection request from: localhost::56354
+2023-06-01T08:23:40.016Z   New client connected: Client1 - localhost::56354
+2023-06-01T08:23:43.564Z   Connection closed: Client1 - localhost::56354 - code: 1000 WebSocket has been closed normally.
+2023-06-01T08:23:43.573Z   *** Server closed
+2023-06-01T08:26:29.217Z   *** Server started
+2023-06-01T08:26:29.345Z   *** New connection request from: localhost::56409
+2023-06-01T08:26:29.353Z   New client connected: Client1 - localhost::56409
+2023-06-01T08:26:33.241Z   *** New connection request from: localhost::56414
+2023-06-01T08:26:33.250Z   New client connected: Client2 - localhost::56414
+2023-06-01T08:30:03.742Z   *** Server started
+2023-06-01T08:30:03.938Z   *** New connection request from: localhost::56471
+2023-06-01T08:30:03.946Z   New client connected: Client1 - localhost::56471
+2023-06-01T08:30:08.947Z   *** New connection request from: localhost::56474
+2023-06-01T08:30:08.956Z   New client connected: Client2 - localhost::56474
+2023-06-01T08:30:23.687Z   *** Error: Client2 - localhost::56474 - {"errors":[{"errCode":1001,"message":"An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).","componentSignature":"HTTP"}]}
+2023-06-01T08:30:23.699Z   Connection closed: Client2 - localhost::56474 - code: 1001 An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).
+2023-06-01T08:30:35.447Z   *** Error: Client1 - localhost::56471 - {"errors":[{"errCode":1006,"message":"Abnormal closure (close frame not sent nor received).","componentSignature":"HTTP"}]}
+2023-06-01T08:30:35.456Z   Connection closed: Client1 - localhost::56471 - code: 1006 Abnormal closure (close frame not sent nor received).
+2023-06-01T08:30:37.274Z   *** Server closed
+2023-06-01T08:31:09.244Z   *** Server started
+2023-06-01T08:31:09.451Z   *** New connection request from: localhost::56486
+2023-06-01T08:31:09.460Z   New client connected: Client1 - localhost::56486
+2023-06-01T08:31:12.469Z   *** New connection request from: localhost::56488
+2023-06-01T08:31:12.478Z   New client connected: Client2 - localhost::56488
+2023-06-01T08:31:24.064Z   *** Error: Client2 - localhost::56488 - {"errors":[{"errCode":1001,"message":"An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).","componentSignature":"HTTP"}]}
+2023-06-01T08:31:24.077Z   Connection closed: Client2 - localhost::56488 - code: 1001 An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).
+2023-06-01T08:40:11.550Z   *** Server started
+2023-06-01T08:40:11.563Z   *** Server closed
+2023-06-01T08:40:25.722Z   *** Server started
+2023-06-01T08:40:25.923Z   *** New connection request from: localhost::56581
+2023-06-01T08:40:25.932Z   New client connected: Client1 - localhost::56581
+2023-06-01T08:40:29.506Z   *** New connection request from: localhost::56583
+2023-06-01T08:40:29.516Z   New client connected: Client2 - localhost::56583
+2023-06-01T08:43:02.081Z   *** New connection request from: localhost::56642
+2023-06-01T08:43:02.114Z   New client connected: Client3 - localhost::56642
+2023-06-01T08:44:00.038Z   *** Server started
+2023-06-01T08:44:00.249Z   *** New connection request from: localhost::56653
+2023-06-01T08:44:00.278Z   New client connected: Client1 - localhost::56653
+2023-06-01T08:44:05.585Z   *** New connection request from: localhost::56655
+2023-06-01T08:44:05.614Z   New client connected: Client2 - localhost::56655
+2023-06-01T08:46:55.122Z   *** Server started
+2023-06-01T08:46:55.256Z   *** New connection request from: localhost::56680
+2023-06-01T08:46:55.265Z   New client connected: Client1 - localhost::56680
+2023-06-01T08:46:58.223Z   *** New connection request from: localhost::56682
+2023-06-01T08:46:58.241Z   New client connected: Client2 - localhost::56682
+2023-06-01T08:57:23.737Z   *** Server started
+2023-06-01T08:57:23.906Z   *** New connection request from: localhost::56812
+2023-06-01T08:57:23.915Z   New client connected: Client1 - localhost::56812
+2023-06-01T08:57:27.664Z   *** New connection request from: localhost::56814
+2023-06-01T08:57:27.676Z   New client connected: Client2 - localhost::56814
+2023-06-01T09:00:56.437Z   *** Server started
+2023-06-01T09:00:56.557Z   *** New connection request from: localhost::56878
+2023-06-01T09:00:56.565Z   New client connected: Client1 - localhost::56878
+2023-06-01T09:01:05.671Z   *** New connection request from: localhost::56890
+2023-06-01T09:01:05.692Z   New client connected: Client2 - localhost::56890
+2023-06-01T09:01:38.338Z   Connection closed: Client1 - localhost::56878 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:03:24.281Z   *** Server started
+2023-06-01T09:03:24.490Z   *** New connection request from: localhost::56932
+2023-06-01T09:03:24.519Z   New client connected: Client1 - localhost::56932
+2023-06-01T09:03:27.296Z   *** New connection request from: localhost::56934
+2023-06-01T09:03:27.311Z   New client connected: Client2 - localhost::56934
+2023-06-01T09:05:00.711Z   *** New connection request from: localhost::56987
+2023-06-01T09:05:00.720Z   New client connected: Client3 - localhost::56987
+2023-06-01T09:05:40.045Z   *** Error: Client3 - localhost::56987 - {"errors":[{"errCode":1001,"message":"An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).","componentSignature":"HTTP"}]}
+2023-06-01T09:05:40.067Z   Connection closed: Client3 - localhost::56987 - code: 1001 An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).
+2023-06-01T09:05:48.683Z   *** Error: Client2 - localhost::56934 - {"errors":[{"errCode":1001,"message":"An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).","componentSignature":"HTTP"}]}
+2023-06-01T09:05:48.699Z   Connection closed: Client2 - localhost::56934 - code: 1001 An endpoint is going away (likely a browser leaving a page without explicitly closing the websocket before).
+2023-06-01T09:07:12.152Z   Connection closed: Client1 - localhost::56932 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:07:12.161Z   *** Server closed
+2023-06-01T09:07:31.160Z   *** Server started
+2023-06-01T09:07:31.372Z   *** New connection request from: localhost::57013
+2023-06-01T09:07:31.381Z   New client connected: Client1 - localhost::57013
+2023-06-01T09:07:35.147Z   *** New connection request from: localhost::57015
+2023-06-01T09:07:35.158Z   New client connected: Client2 - localhost::57015
+2023-06-01T09:07:43.379Z   Connection closed: Client1 - localhost::57013 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:07:43.388Z   Connection closed: Client2 - localhost::57015 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:07:43.404Z   *** Server closed
+2023-06-01T09:07:55.686Z   *** Server started
+2023-06-01T09:07:55.882Z   *** New connection request from: localhost::57018
+2023-06-01T09:07:55.892Z   New client connected: Client1 - localhost::57018
+2023-06-01T09:08:04.467Z   *** New connection request from: localhost::57022
+2023-06-01T09:08:04.508Z   New client connected: Client2 - localhost::57022
+2023-06-01T09:08:40.327Z   Connection closed: Client1 - localhost::57018 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:08:40.336Z   Connection closed: Client2 - localhost::57022 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:08:40.349Z   *** Server closed
+2023-06-01T09:08:49.312Z   *** Server started
+2023-06-01T09:08:49.498Z   *** New connection request from: localhost::57030
+2023-06-01T09:08:49.507Z   New client connected: Client1 - localhost::57030
+2023-06-01T09:08:55.081Z   *** New connection request from: localhost::57039
+2023-06-01T09:08:55.091Z   New client connected: Client2 - localhost::57039
+2023-06-01T09:09:50.735Z   Connection closed: Client1 - localhost::57030 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:09:50.745Z   Connection closed: Client2 - localhost::57039 - code: 1000 WebSocket has been closed normally.
+2023-06-01T09:09:50.766Z   *** Server closed
